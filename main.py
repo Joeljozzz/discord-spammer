@@ -2,7 +2,7 @@ import requests
 import random
 import time
 header = {
-    'authorization': "NzE3MzAxNDM5ODg5OTMyMjg5.YH0s0Q.7hT6mQ3y5oxMuZCZ234dRWkZc48"
+    'authorization': ""
 }
 
 def postmessage():
